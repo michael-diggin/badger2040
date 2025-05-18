@@ -1,0 +1,5 @@
+{"norwegian": "Hallo", "english": "Hello"}
+{"norwegian": "Hvordan går det?", "english": "How are you?"}
+{"norwegian": "Takk", "english": "Thank you"}
+{"norwegian": "Vær så god", "english": "You're welcome"}
+{"norwegian": "Jeg forstår ikke", "english": "I don't understand"}
